@@ -1,0 +1,12 @@
+[
+  {
+    "task_id": "4e7a8f181f",
+    "message": "Добро пожаловать на конференцию ZeroNights 2026",
+    "recipients": [
+      "*"
+    ],
+    "run_at": "2026-09-30T12:00:00",
+    "enabled": false,
+    "last_run": ""
+  }
+]
